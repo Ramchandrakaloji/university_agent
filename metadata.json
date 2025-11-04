@@ -1,0 +1,5 @@
+{
+  "name": "CrewAI University Slack Bot",
+  "description": "A Slack-like chat interface for a university bot, conceptually based on the CrewAI framework. It features specialized agents to answer queries by referencing the Goa University website, and a new Form Filler agent that can handle multi-turn conversations to complete tasks like event registration.",
+  "requestFramePermissions": []
+}
